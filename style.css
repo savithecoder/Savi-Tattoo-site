@@ -302,7 +302,7 @@ body {
 }
 
 .about {
-    height: 100vh;
+    height: 120vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -316,7 +316,7 @@ body {
 
 .heading {
     font-size: 5rem;
-    margin-bottom: 2rem;
+    margin-top: 7rem;
     text-align: center;
     color: #42cf99;
     
@@ -360,7 +360,7 @@ body {
     font-size: 2.2rem;
 }
 .about-content p {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
 }
 
 
@@ -390,6 +390,7 @@ body {
 
 
 .contact {
+    height: 120vh ;
     background: #0c0c0c;
 
 }
