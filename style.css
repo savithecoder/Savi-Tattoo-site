@@ -324,7 +324,7 @@ body {
 
 .about-img {
     position: relative;
-    width: 25rem;
+    width: 50rem;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -366,10 +366,11 @@ body {
 
 .portfolio {
     background-color: #020202;
+    width: 100%;
+    padding: 2rem;
 }
 
 .portfolio h2 {
-    padding: 2rem;
     margin-bottom: 3rem;
     text-align: center;
     font-size: 4rem;
@@ -382,11 +383,6 @@ body {
     align-items: center; 
 }
 
-.portfolio-img {
-    border-radius: .6rem;
-    border: .2rem solid #ededed;
-    box-sizing: border-box;
-}
 
 
 .contact {
